@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+bin/
+obj/
+dist/
+build/
+working/
+Extracted/
+Buckup/
+release/
+*.bin
+*.gbc
+*.rom
+*.psb.m
+*.zip
+*.7z
+*.log

@@ -1,0 +1,6708 @@
+[
+  {
+    "kind": "chinese_text",
+    "label": "按键图标",
+    "source_layer": "按键图标 拷贝",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      8,
+      8,
+      109,
+      38
+    ],
+    "size": [
+      101,
+      30
+    ],
+    "reference_icon_id": "0052",
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 22,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "按键图标",
+    "source_layer": "按键图标",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      117,
+      8,
+      218,
+      38
+    ],
+    "size": [
+      101,
+      30
+    ],
+    "reference_icon_id": "0050",
+    "english_reference_glyph_height": 23,
+    "glyph_height_before": 23,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 22,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "版本选择",
+    "source_layer": "版本选择",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      226,
+      8,
+      316,
+      30
+    ],
+    "size": [
+      90,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 22,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "保存",
+    "source_layer": "保存",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      324,
+      8,
+      448,
+      38
+    ],
+    "size": [
+      124,
+      30
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 29,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 27,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "保存并覆盖当前游戏进度。",
+    "source_layer": "保存并覆盖当前游戏进度。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      456,
+      8,
+      717,
+      30
+    ],
+    "size": [
+      261,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 30,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 28,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "保存当前游戏进度。",
+    "source_layer": "保存当前游戏进度。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      725,
+      8,
+      906,
+      29
+    ],
+    "size": [
+      181,
+      21
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 23,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "背景壁纸",
+    "source_layer": "壁纸",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      914,
+      8,
+      1021,
+      38
+    ],
+    "size": [
+      107,
+      30
+    ],
+    "reference_icon_id": "0019",
+    "english_reference_glyph_height": 28,
+    "glyph_height_before": 24,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 24,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "壁纸1",
+    "source_layer": "壁纸1",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1029,
+      8,
+      1085,
+      31
+    ],
+    "size": [
+      56,
+      23
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 21,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "壁纸2",
+    "source_layer": "壁纸2 ",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1093,
+      8,
+      1153,
+      31
+    ],
+    "size": [
+      60,
+      23
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 21,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "壁纸3",
+    "source_layer": "壁纸3",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1161,
+      8,
+      1220,
+      31
+    ],
+    "size": [
+      59,
+      23
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 21,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "壁纸4",
+    "source_layer": "壁纸4  ",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1228,
+      8,
+      1289,
+      31
+    ],
+    "size": [
+      61,
+      23
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 21,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "壁纸5",
+    "source_layer": "壁纸5",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1297,
+      8,
+      1357,
+      31
+    ],
+    "size": [
+      60,
+      23
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 21,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "壁纸6",
+    "source_layer": "壁纸6",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1365,
+      8,
+      1425,
+      31
+    ],
+    "size": [
+      60,
+      23
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 21,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "壁纸7",
+    "source_layer": "壁纸7  ",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1433,
+      8,
+      1494,
+      31
+    ],
+    "size": [
+      61,
+      23
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 21,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "壁纸8",
+    "source_layer": "壁纸8",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1502,
+      8,
+      1562,
+      31
+    ],
+    "size": [
+      60,
+      23
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 21,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "壁纸9",
+    "source_layer": "壁纸9",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1570,
+      8,
+      1630,
+      31
+    ],
+    "size": [
+      60,
+      23
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 21,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "标准",
+    "source_layer": "标准",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1638,
+      8,
+      1681,
+      29
+    ],
+    "size": [
+      43,
+      21
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 23,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "菜单键",
+    "source_layer": "菜单键",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1689,
+      8,
+      1761,
+      38
+    ],
+    "size": [
+      72,
+      30
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 23,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "操作列表",
+    "source_layer": "操作列表",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1769,
+      8,
+      1859,
+      30
+    ],
+    "size": [
+      90,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 22,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "查看背面",
+    "source_layer": "查看背面",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1867,
+      8,
+      1961,
+      31
+    ],
+    "size": [
+      94,
+      23
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 21,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "查看说明书。",
+    "source_layer": "查看说明书。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      8,
+      48,
+      132,
+      75
+    ],
+    "size": [
+      124,
+      27
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 24,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 24,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "查看正面",
+    "source_layer": "查看正面",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      140,
+      48,
+      233,
+      71
+    ],
+    "size": [
+      93,
+      23
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 21,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "初始化画面。",
+    "source_layer": "初始化画面。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      241,
+      48,
+      362,
+      69
+    ],
+    "size": [
+      121,
+      21
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 22,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "窗口化",
+    "source_layer": "窗口化*",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      370,
+      48,
+      441,
+      70
+    ],
+    "size": [
+      71,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 30,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 28,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "窗口模式",
+    "source_layer": "窗口模式",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      449,
+      48,
+      549,
+      78
+    ],
+    "size": [
+      100,
+      30
+    ],
+    "reference_icon_id": "0051",
+    "english_reference_glyph_height": 23,
+    "glyph_height_before": 23,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 22,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "存档数据已损坏。",
+    "source_layer": "存档数据已损坏。*",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      557,
+      48,
+      725,
+      70
+    ],
+    "size": [
+      168,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 25,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 24,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "打开说明书",
+    "source_layer": "打开说明书",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      733,
+      48,
+      821,
+      70
+    ],
+    "size": [
+      88,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 22,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "当前设置",
+    "source_layer": "当前设置",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      829,
+      48,
+      919,
+      71
+    ],
+    "size": [
+      90,
+      23
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 20,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 18,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "倒带十秒",
+    "source_layer": "倒带十秒",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      927,
+      48,
+      1017,
+      70
+    ],
+    "size": [
+      90,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 22,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "德语",
+    "source_layer": "德语",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1025,
+      48,
+      1076,
+      78
+    ],
+    "size": [
+      51,
+      30
+    ],
+    "reference_icon_id": "0026",
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 29,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 28,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "读取",
+    "source_layer": "读取",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1084,
+      48,
+      1198,
+      78
+    ],
+    "size": [
+      114,
+      30
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 21,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "读取已保存数据",
+    "source_layer": "读取已保存数据",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1206,
+      48,
+      1363,
+      70
+    ],
+    "size": [
+      157,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 22,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "法律隐私",
+    "source_layer": "法律与隐私",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1371,
+      48,
+      1478,
+      78
+    ],
+    "size": [
+      107,
+      30
+    ],
+    "reference_icon_id": "0037",
+    "english_reference_glyph_height": 23,
+    "glyph_height_before": 24,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 24,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "法律隐私",
+    "source_layer": "法律与隐私",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1486,
+      48,
+      1593,
+      78
+    ],
+    "size": [
+      107,
+      30
+    ],
+    "reference_icon_id": "0049",
+    "english_reference_glyph_height": 26,
+    "glyph_height_before": 24,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 24,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "法语",
+    "source_layer": "法语",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1601,
+      48,
+      1652,
+      78
+    ],
+    "size": [
+      51,
+      30
+    ],
+    "reference_icon_id": "0024",
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 21,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "返回",
+    "source_layer": "返回",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1660,
+      48,
+      1706,
+      70
+    ],
+    "size": [
+      46,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 18,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 17,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "返回主菜单",
+    "source_layer": "返回主菜单。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1714,
+      48,
+      1844,
+      78
+    ],
+    "size": [
+      130,
+      30
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 24,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 24,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "放大",
+    "source_layer": "放大",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1852,
+      48,
+      1898,
+      71
+    ],
+    "size": [
+      46,
+      23
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 21,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "放弃更改",
+    "source_layer": "放弃更改",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1906,
+      48,
+      1996,
+      70
+    ],
+    "size": [
+      90,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 22,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "否",
+    "source_layer": "否",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      2004,
+      48,
+      2027,
+      70
+    ],
+    "size": [
+      23,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 27,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 26,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "副按键",
+    "source_layer": "副按键",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      8,
+      88,
+      83,
+      117
+    ],
+    "size": [
+      75,
+      29
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 21,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "该按键无法分配。\n请选择其他按键。",
+    "source_layer": "该按键无法分配。 请选择其他按键。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      91,
+      88,
+      259,
+      136
+    ],
+    "size": [
+      168,
+      48
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 60,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 58,
+    "glyph_core_height_after": 42
+  },
+  {
+    "kind": "chinese_text",
+    "label": "该按钮无法分配。\n请选择其他按钮。",
+    "source_layer": "该按钮无法分配。 请选择其他按钮。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      267,
+      88,
+      433,
+      136
+    ],
+    "size": [
+      166,
+      48
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 50,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 49,
+    "glyph_core_height_after": 42
+  },
+  {
+    "kind": "chinese_text",
+    "label": "更改",
+    "source_layer": "更改",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      441,
+      88,
+      484,
+      110
+    ],
+    "size": [
+      43,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 22,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "更改按键分配设置。",
+    "source_layer": "已分配的按键",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      492,
+      88,
+      689,
+      116
+    ],
+    "size": [
+      197,
+      28
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 21,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 22,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "更改壁纸",
+    "source_layer": "更改壁纸",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      697,
+      88,
+      793,
+      117
+    ],
+    "size": [
+      96,
+      29
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 30,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 28,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "更改壁纸",
+    "source_layer": "更改壁纸",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      801,
+      88,
+      889,
+      110
+    ],
+    "size": [
+      88,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 22,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "更改画面平滑设置。",
+    "source_layer": "更改画面平滑设置。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      897,
+      88,
+      1094,
+      116
+    ],
+    "size": [
+      197,
+      28
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 30,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 28,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "更改画面平滑设置。",
+    "source_layer": "更改画面平滑设置。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1102,
+      88,
+      1290,
+      110
+    ],
+    "size": [
+      188,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 22,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "更改画面设置。",
+    "source_layer": "更改画面设置。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1298,
+      88,
+      1449,
+      116
+    ],
+    "size": [
+      151,
+      28
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 30,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 28,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "更改画面位置。",
+    "source_layer": "更改画面位置。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1457,
+      88,
+      1605,
+      116
+    ],
+    "size": [
+      148,
+      28
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 22,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "更改画面位置。",
+    "source_layer": "更改画面位置。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1613,
+      88,
+      1755,
+      110
+    ],
+    "size": [
+      142,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 22,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "更改键盘设置。",
+    "source_layer": "更改键盘设置。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1763,
+      88,
+      1911,
+      116
+    ],
+    "size": [
+      148,
+      28
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 22,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "更改手柄设置。",
+    "source_layer": "更改手柄设置。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      8,
+      146,
+      156,
+      174
+    ],
+    "size": [
+      148,
+      28
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 22,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "更改游戏画面设置",
+    "source_layer": "更改游戏画面设置",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      164,
+      146,
+      342,
+      168
+    ],
+    "size": [
+      178,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 22,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "更改“菜单键”的键盘按键分配。",
+    "source_layer": "更改“菜单键”的键盘按键分配。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      350,
+      146,
+      675,
+      174
+    ],
+    "size": [
+      325,
+      28
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 30,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 28,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "更改“菜单键”的手柄按键分配。",
+    "source_layer": "更改“菜单键”的手柄按键分配。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      683,
+      146,
+      1008,
+      174
+    ],
+    "size": [
+      325,
+      28
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 30,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 28,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "更改“爬行键”的键盘按键分配。",
+    "source_layer": "更改“爬行键”的键盘按键分配。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1016,
+      146,
+      1341,
+      174
+    ],
+    "size": [
+      325,
+      28
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 30,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 28,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "更改“爬行键”的手柄按键分配。",
+    "source_layer": "更改“爬行键”的手柄按键分配。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1349,
+      146,
+      1655,
+      173
+    ],
+    "size": [
+      306,
+      27
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 23,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "更改“拳击/确认键”的键盘按键分配。",
+    "source_layer": "更改“拳击/确认键”的键盘按键分配。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      8,
+      184,
+      390,
+      212
+    ],
+    "size": [
+      382,
+      28
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 30,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 28,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "更改“拳击/确认键”的手柄按钮分配。",
+    "source_layer": "更改“拳击/确认键”的手柄按钮分配。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      398,
+      184,
+      780,
+      212
+    ],
+    "size": [
+      382,
+      28
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 30,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 28,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "更改“武器/道具选择键”的键盘按键分配。",
+    "source_layer": "更改“武器/道具选择键”的键盘按键分配。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      788,
+      184,
+      1216,
+      211
+    ],
+    "size": [
+      428,
+      27
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 30,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 28,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "更改“武器/道具选择键”的手柄按键分配。",
+    "source_layer": "更改“武器/道具选择键”的手柄按键分配。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1224,
+      184,
+      1652,
+      211
+    ],
+    "size": [
+      428,
+      27
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 30,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 28,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "更改“武器/取消键”的键盘按键分配。",
+    "source_layer": "更改“武器/取消键”的键盘按键分配。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      8,
+      222,
+      390,
+      250
+    ],
+    "size": [
+      382,
+      28
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 30,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 28,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "更改“武器/取消键”的手柄按钮分配。",
+    "source_layer": "更改“武器/取消键”的手柄按钮分配。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      398,
+      222,
+      780,
+      250
+    ],
+    "size": [
+      382,
+      28
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 30,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 28,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "更改“向后移动”的键盘按键分配。",
+    "source_layer": "更改“向后移动”的键盘按键分配",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      788,
+      222,
+      1121,
+      249
+    ],
+    "size": [
+      333,
+      27
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 21,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 21,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "更改“向前移动”的键盘按键分配。",
+    "source_layer": "更改“向前移动”的键盘按键分配。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1129,
+      222,
+      1465,
+      249
+    ],
+    "size": [
+      336,
+      27
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 30,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 29,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "更改“向右移动”的键盘按键分配。",
+    "source_layer": "更改“向右移动”的键盘按键分配。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1473,
+      222,
+      1809,
+      249
+    ],
+    "size": [
+      336,
+      27
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 30,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 29,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "更改“向左移动”的键盘按键分配。",
+    "source_layer": "更改“向左移动”的键盘按键分配。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      8,
+      260,
+      344,
+      287
+    ],
+    "size": [
+      336,
+      27
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 30,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 29,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "更改“Codec”的键盘按键分配。",
+    "source_layer": "更改“Codec键”的键盘按键分配。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      352,
+      260,
+      675,
+      288
+    ],
+    "size": [
+      323,
+      28
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 21,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 22,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "更改“Codec”的手柄按钮分配。",
+    "source_layer": "更改“Codec键”的手柄按钮分配。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      683,
+      260,
+      1006,
+      288
+    ],
+    "size": [
+      323,
+      28
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 21,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 22,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "更新后的设置",
+    "source_layer": "更新后的设置*",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1014,
+      260,
+      1147,
+      282
+    ],
+    "size": [
+      133,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 21,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 20,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "关",
+    "source_layer": "关",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1155,
+      260,
+      1177,
+      283
+    ],
+    "size": [
+      22,
+      23
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 21,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "滚动",
+    "source_layer": "滚动 ",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1185,
+      260,
+      1228,
+      282
+    ],
+    "size": [
+      43,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 19,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 18,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "国际版",
+    "source_layer": "国际版",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1236,
+      260,
+      1314,
+      290
+    ],
+    "size": [
+      78,
+      30
+    ],
+    "reference_icon_id": "0082",
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 21,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "画面比例",
+    "source_layer": "游戏画面设置",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1322,
+      260,
+      1428,
+      290
+    ],
+    "size": [
+      106,
+      30
+    ],
+    "reference_icon_id": "0020",
+    "english_reference_glyph_height": 28,
+    "glyph_height_before": 24,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 24,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "画面平滑",
+    "source_layer": "画面平滑",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1436,
+      260,
+      1542,
+      290
+    ],
+    "size": [
+      106,
+      30
+    ],
+    "reference_icon_id": "0078",
+    "english_reference_glyph_height": 28,
+    "glyph_height_before": 22,
+    "glyph_height_after": 23,
+    "glyph_core_height_before": 20,
+    "glyph_core_height_after": 23
+  },
+  {
+    "kind": "chinese_text",
+    "label": "画面设置",
+    "source_layer": "画面*",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1550,
+      260,
+      1727,
+      290
+    ],
+    "size": [
+      177,
+      30
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 25,
+    "glyph_height_after": 25,
+    "glyph_core_height_before": 26,
+    "glyph_core_height_after": 25
+  },
+  {
+    "kind": "chinese_text",
+    "label": "画面设置",
+    "source_layer": "画面",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1735,
+      260,
+      1847,
+      290
+    ],
+    "size": [
+      112,
+      30
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 25,
+    "glyph_height_after": 25,
+    "glyph_core_height_before": 25,
+    "glyph_core_height_after": 25
+  },
+  {
+    "kind": "chinese_text",
+    "label": "恢复默认设置",
+    "source_layer": "恢复默认设置",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1855,
+      260,
+      2009,
+      290
+    ],
+    "size": [
+      154,
+      30
+    ],
+    "reference_icon_id": "0022",
+    "english_reference_glyph_height": 23,
+    "glyph_height_before": 23,
+    "glyph_height_after": 23,
+    "glyph_core_height_before": 21,
+    "glyph_core_height_after": 23
+  },
+  {
+    "kind": "chinese_text",
+    "label": "继续游戏",
+    "source_layer": "继续游戏",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      8,
+      300,
+      114,
+      330
+    ],
+    "size": [
+      106,
+      30
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 22,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "继续游戏。",
+    "source_layer": "继续游戏。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      122,
+      300,
+      228,
+      328
+    ],
+    "size": [
+      106,
+      28
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 30,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 28,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "键盘设置",
+    "source_layer": "键盘设置",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      236,
+      300,
+      406,
+      330
+    ],
+    "size": [
+      170,
+      30
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 30,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 28,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "键盘设置",
+    "source_layer": "键盘设置",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      414,
+      300,
+      521,
+      330
+    ],
+    "size": [
+      107,
+      30
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 21,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "简体中文",
+    "source_layer": "英语 ",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      529,
+      300,
+      632,
+      330
+    ],
+    "size": [
+      103,
+      30
+    ],
+    "reference_icon_id": "0023",
+    "english_reference_glyph_height": 26,
+    "glyph_height_before": 24,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 24,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "将本页设置全部恢复为默认设置。",
+    "source_layer": "将设置恢复为默认参数。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      640,
+      300,
+      975,
+      328
+    ],
+    "size": [
+      335,
+      28
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 21,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 22,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "将本页设置全部恢复为默认设置。",
+    "source_layer": "将设置恢复为默认参数。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      983,
+      300,
+      1312,
+      322
+    ],
+    "size": [
+      329,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 21,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 21,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "将手柄键位恢复到初始状态。",
+    "source_layer": "将手柄键位恢复到初始状态。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1320,
+      300,
+      1596,
+      322
+    ],
+    "size": [
+      276,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 22,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "仅支持日语。",
+    "source_layer": "仅支持日语。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1604,
+      300,
+      1726,
+      322
+    ],
+    "size": [
+      122,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 22,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "静音",
+    "source_layer": "静音",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1734,
+      300,
+      1778,
+      323
+    ],
+    "size": [
+      44,
+      23
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 20,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 18,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "居中",
+    "source_layer": "居中",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1786,
+      300,
+      1828,
+      322
+    ],
+    "size": [
+      42,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 22,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "开",
+    "source_layer": "开",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1836,
+      300,
+      1858,
+      321
+    ],
+    "size": [
+      22,
+      21
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 21,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 21,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "开始菜单",
+    "source_layer": "开始菜单",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1866,
+      300,
+      1951,
+      321
+    ],
+    "size": [
+      85,
+      21
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 23,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "开始游戏",
+    "source_layer": "开始游戏",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      8,
+      340,
+      109,
+      370
+    ],
+    "size": [
+      101,
+      30
+    ],
+    "reference_icon_id": "0031",
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 22,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "开始游戏后，可以在OPTION\n 菜单更改人物名字显示语言。",
+    "source_layer": "开始游戏后，可以在OPTION  菜单更改人物名字显示语言。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      117,
+      340,
+      389,
+      389
+    ],
+    "size": [
+      272,
+      49
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 47,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 47,
+    "glyph_core_height_after": 42
+  },
+  {
+    "kind": "chinese_text",
+    "label": "靠右",
+    "source_layer": "靠右",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      397,
+      340,
+      444,
+      363
+    ],
+    "size": [
+      47,
+      23
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 21,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "靠左",
+    "source_layer": "靠左",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      452,
+      340,
+      499,
+      363
+    ],
+    "size": [
+      47,
+      23
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 21,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "控制设置",
+    "source_layer": "控制设置*",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      507,
+      340,
+      670,
+      370
+    ],
+    "size": [
+      163,
+      30
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 28,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 26,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "控制设置",
+    "source_layer": "控制设置",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      678,
+      340,
+      782,
+      370
+    ],
+    "size": [
+      104,
+      30
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 29,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 28,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "快",
+    "source_layer": "快",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      790,
+      340,
+      812,
+      362
+    ],
+    "size": [
+      22,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 29,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 28,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "快进10秒",
+    "source_layer": "快进10秒",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      820,
+      340,
+      918,
+      363
+    ],
+    "size": [
+      98,
+      23
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 21,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "面向欧洲市场的版本，已汉化为简体中文。",
+    "source_layer": "面向欧洲市场的版本，已汉化为简体中文。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      926,
+      340,
+      1321,
+      362
+    ],
+    "size": [
+      395,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 24,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 23,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "某些按键无法分配。",
+    "source_layer": "某些按键无法分配。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1329,
+      340,
+      1520,
+      362
+    ],
+    "size": [
+      191,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 30,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 28,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "欧版",
+    "source_layer": "欧版*",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1528,
+      340,
+      1571,
+      362
+    ],
+    "size": [
+      43,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 28,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 27,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "爬行键",
+    "source_layer": "爬行键",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1579,
+      340,
+      1656,
+      370
+    ],
+    "size": [
+      77,
+      30
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 23,
+    "glyph_core_height_before": 21,
+    "glyph_core_height_after": 23
+  },
+  {
+    "kind": "chinese_text",
+    "label": "切换窗口模式和全屏模式。",
+    "source_layer": "切换窗口模式和全屏模式。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1664,
+      340,
+      1929,
+      367
+    ],
+    "size": [
+      265,
+      27
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 29,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 28,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "切换窗口模式和全屏模式。",
+    "source_layer": "切换窗口模式和全屏模式。 拷贝",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      8,
+      399,
+      264,
+      421
+    ],
+    "size": [
+      256,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 18,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 17,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "请按下您想要重新分配的键盘按键。",
+    "source_layer": "请按下您想要重新分配的键盘按键。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      272,
+      399,
+      611,
+      421
+    ],
+    "size": [
+      339,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 19,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 18,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "请按下您想要重新分配的键盘按键。",
+    "source_layer": "请按下您想要重新分配的键盘按键。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      619,
+      399,
+      970,
+      421
+    ],
+    "size": [
+      351,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 30,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 28,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "请按下您想要重新分配的键盘按键。\n某些按键无法分配。",
+    "source_layer": "请按下您想要重新分配的键盘按键。 某些按键无法分配。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      978,
+      399,
+      1309,
+      447
+    ],
+    "size": [
+      331,
+      48
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 52,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 52,
+    "glyph_core_height_after": 42
+  },
+  {
+    "kind": "chinese_text",
+    "label": "请按下您想要重新分配的手柄按键。",
+    "source_layer": "请按下您想要重新分配的手柄按键。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1317,
+      399,
+      1668,
+      421
+    ],
+    "size": [
+      351,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 30,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 28,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "取消",
+    "source_layer": "取消",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1676,
+      399,
+      1721,
+      422
+    ],
+    "size": [
+      45,
+      23
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 21,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "拳击/确认键",
+    "source_layer": "拳击/确认的手柄按钮分配。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1729,
+      399,
+      1872,
+      429
+    ],
+    "size": [
+      143,
+      30
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 23,
+    "glyph_core_height_before": 23,
+    "glyph_core_height_after": 23
+  },
+  {
+    "kind": "chinese_text",
+    "label": "拳击键（取消）",
+    "source_layer": "拳击键（取消）*",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1880,
+      399,
+      2020,
+      420
+    ],
+    "size": [
+      140,
+      21
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 30,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 30,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "全屏",
+    "source_layer": "全屏",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      8,
+      457,
+      52,
+      479
+    ],
+    "size": [
+      44,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 22,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "全屏",
+    "source_layer": "全屏",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      60,
+      457,
+      104,
+      479
+    ],
+    "size": [
+      44,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 22,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "确定要恢复默认设置吗？",
+    "source_layer": "确定要恢复默认设置吗？",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      112,
+      457,
+      350,
+      479
+    ],
+    "size": [
+      238,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 22,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "确认",
+    "source_layer": "确认",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      358,
+      457,
+      402,
+      479
+    ],
+    "size": [
+      44,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 22,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "日版",
+    "source_layer": "日版",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      410,
+      457,
+      460,
+      487
+    ],
+    "size": [
+      50,
+      30
+    ],
+    "reference_icon_id": "0081",
+    "english_reference_glyph_height": 26,
+    "glyph_height_before": 23,
+    "glyph_height_after": 25,
+    "glyph_core_height_before": 21,
+    "glyph_core_height_after": 25
+  },
+  {
+    "kind": "chinese_text",
+    "label": "日版与国际版的存档不兼容。",
+    "source_layer": "日版与国际版的存档不兼容。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      468,
+      457,
+      731,
+      478
+    ],
+    "size": [
+      263,
+      21
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 23,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "日语",
+    "source_layer": "日语",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      739,
+      457,
+      787,
+      487
+    ],
+    "size": [
+      48,
+      30
+    ],
+    "reference_icon_id": "0029",
+    "english_reference_glyph_height": 26,
+    "glyph_height_before": 22,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 21,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "删除存档数据",
+    "source_layer": "删除存档数据",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      795,
+      457,
+      948,
+      487
+    ],
+    "size": [
+      153,
+      30
+    ],
+    "reference_icon_id": "0079",
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 22,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "删除已分配的按键设置",
+    "source_layer": "删除已分配的按键设置",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      956,
+      457,
+      1184,
+      480
+    ],
+    "size": [
+      228,
+      23
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 21,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 19,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "设置画面滤镜。",
+    "source_layer": "设置画面滤镜。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1192,
+      457,
+      1339,
+      484
+    ],
+    "size": [
+      147,
+      27
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 24,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 24,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "设置画面滤镜。",
+    "source_layer": "设置画面滤镜。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1347,
+      457,
+      1483,
+      478
+    ],
+    "size": [
+      136,
+      21
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 23,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "是",
+    "source_layer": "是",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1491,
+      457,
+      1514,
+      479
+    ],
+    "size": [
+      23,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 22,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 21,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "使用条款",
+    "source_layer": "使用条款",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1522,
+      457,
+      1624,
+      487
+    ],
+    "size": [
+      102,
+      30
+    ],
+    "reference_icon_id": "0033",
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 22,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "手柄设置",
+    "source_layer": "手柄设置",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1632,
+      457,
+      1801,
+      487
+    ],
+    "size": [
+      169,
+      30
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 29,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 28,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "手柄设置",
+    "source_layer": "手柄设置 拷贝",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1809,
+      457,
+      1978,
+      487
+    ],
+    "size": [
+      169,
+      30
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 29,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 28,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "手柄设置",
+    "source_layer": "手柄设置。*",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      8,
+      497,
+      110,
+      527
+    ],
+    "size": [
+      102,
+      30
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 31,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 30,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "说明书",
+    "source_layer": "说明书*",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      118,
+      497,
+      192,
+      527
+    ],
+    "size": [
+      74,
+      30
+    ],
+    "reference_icon_id": "0032",
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 28,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 27,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "调整音量。",
+    "source_layer": "调整音量。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      200,
+      497,
+      306,
+      525
+    ],
+    "size": [
+      106,
+      28
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 30,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 28,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "调整音量。",
+    "source_layer": "调整音量。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      314,
+      497,
+      407,
+      518
+    ],
+    "size": [
+      93,
+      21
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 23,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "图标类型",
+    "source_layer": "控制类型",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      415,
+      497,
+      522,
+      527
+    ],
+    "size": [
+      107,
+      30
+    ],
+    "reference_icon_id": "0062",
+    "english_reference_glyph_height": 27,
+    "glyph_height_before": 24,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 24,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "退出",
+    "source_layer": "退出",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      530,
+      497,
+      574,
+      520
+    ],
+    "size": [
+      44,
+      23
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 21,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "退出当前游戏？",
+    "source_layer": "退出当前游戏？*",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      582,
+      497,
+      726,
+      518
+    ],
+    "size": [
+      144,
+      21
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 26,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 26,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "退出游戏",
+    "source_layer": "退出游戏",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      734,
+      497,
+      841,
+      527
+    ],
+    "size": [
+      107,
+      30
+    ],
+    "reference_icon_id": "0060",
+    "english_reference_glyph_height": 22,
+    "glyph_height_before": 23,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 21,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "退出游戏并返回主菜单。",
+    "source_layer": "返回主菜单。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      849,
+      497,
+      1093,
+      525
+    ],
+    "size": [
+      244,
+      28
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 21,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 22,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "退出游戏并返回主菜单。",
+    "source_layer": "退出游戏并返回主菜单。 ",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1101,
+      497,
+      1325,
+      518
+    ],
+    "size": [
+      224,
+      21
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 23,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "未保存的进度将会丢失。",
+    "source_layer": "未保存的进度将会丢失",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1333,
+      497,
+      1571,
+      519
+    ],
+    "size": [
+      238,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 21,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 21,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "武器/道具选择键",
+    "source_layer": "武器/道具选择键",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1579,
+      497,
+      1769,
+      527
+    ],
+    "size": [
+      190,
+      30
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 22,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "武器/取消键",
+    "source_layer": "武器/取消键",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1777,
+      497,
+      1918,
+      527
+    ],
+    "size": [
+      141,
+      30
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 23,
+    "glyph_core_height_before": 21,
+    "glyph_core_height_after": 23
+  },
+  {
+    "kind": "chinese_text",
+    "label": "武器键（确认）",
+    "source_layer": "武器键（确认）*",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      8,
+      537,
+      154,
+      559
+    ],
+    "size": [
+      146,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 30,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 28,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "西班牙语",
+    "source_layer": "西班牙语",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      162,
+      537,
+      268,
+      567
+    ],
+    "size": [
+      106,
+      30
+    ],
+    "reference_icon_id": "0028",
+    "english_reference_glyph_height": 26,
+    "glyph_height_before": 23,
+    "glyph_height_after": 25,
+    "glyph_core_height_before": 22,
+    "glyph_core_height_after": 25
+  },
+  {
+    "kind": "chinese_text",
+    "label": "显示区域",
+    "source_layer": "显示区域",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      276,
+      537,
+      378,
+      567
+    ],
+    "size": [
+      102,
+      30
+    ],
+    "reference_icon_id": "0018",
+    "english_reference_glyph_height": 28,
+    "glyph_height_before": 23,
+    "glyph_height_after": 23,
+    "glyph_core_height_before": 21,
+    "glyph_core_height_after": 23
+  },
+  {
+    "kind": "chinese_text",
+    "label": "向后移动",
+    "source_layer": "向后移动",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      386,
+      537,
+      479,
+      567
+    ],
+    "size": [
+      93,
+      30
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 23,
+    "glyph_core_height_before": 22,
+    "glyph_core_height_after": 23
+  },
+  {
+    "kind": "chinese_text",
+    "label": "向前移动",
+    "source_layer": "向前移动 ",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      487,
+      537,
+      580,
+      567
+    ],
+    "size": [
+      93,
+      30
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 23,
+    "glyph_core_height_before": 22,
+    "glyph_core_height_after": 23
+  },
+  {
+    "kind": "chinese_text",
+    "label": "像素适配",
+    "source_layer": "像素适配",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      588,
+      537,
+      682,
+      560
+    ],
+    "size": [
+      94,
+      23
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 21,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "向右移动",
+    "source_layer": "向右移动",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      690,
+      537,
+      783,
+      567
+    ],
+    "size": [
+      93,
+      30
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 23,
+    "glyph_core_height_before": 22,
+    "glyph_core_height_after": 23
+  },
+  {
+    "kind": "chinese_text",
+    "label": "向左移动",
+    "source_layer": "向左移动",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      791,
+      537,
+      884,
+      567
+    ],
+    "size": [
+      93,
+      30
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 23,
+    "glyph_core_height_before": 22,
+    "glyph_core_height_after": 23
+  },
+  {
+    "kind": "chinese_text",
+    "label": "许可条款",
+    "source_layer": "许可 拷贝",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      892,
+      537,
+      999,
+      567
+    ],
+    "size": [
+      107,
+      30
+    ],
+    "reference_icon_id": "0034",
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 24,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 24,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "许可条款",
+    "source_layer": "许可",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1007,
+      537,
+      1114,
+      567
+    ],
+    "size": [
+      107,
+      30
+    ],
+    "reference_icon_id": "0042",
+    "english_reference_glyph_height": 23,
+    "glyph_height_before": 24,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 24,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "选择存档槽位。",
+    "source_layer": "选择存档槽位。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1122,
+      537,
+      1269,
+      564
+    ],
+    "size": [
+      147,
+      27
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 25,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 25,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "选择倒带位置",
+    "source_layer": "选择倒带位置*",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1277,
+      537,
+      1413,
+      559
+    ],
+    "size": [
+      136,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 25,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 24,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "选择要读取的存档。",
+    "source_layer": "选择要读取的存档。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1421,
+      537,
+      1618,
+      565
+    ],
+    "size": [
+      197,
+      28
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 30,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 28,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "选择要修改的主按键或副按键。",
+    "source_layer": "选择要修改的主按键或副按键。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1626,
+      537,
+      1937,
+      565
+    ],
+    "size": [
+      311,
+      28
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 30,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 28,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "要保存更改后的设置吗？",
+    "source_layer": "要保存更改后的设置吗？",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      8,
+      577,
+      246,
+      599
+    ],
+    "size": [
+      238,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 17,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 16,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "已创建临时存档。",
+    "source_layer": "已创建临时存档。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      254,
+      577,
+      411,
+      598
+    ],
+    "size": [
+      157,
+      21
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 23,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "意大利语",
+    "source_layer": "意语",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      419,
+      577,
+      526,
+      607
+    ],
+    "size": [
+      107,
+      30
+    ],
+    "reference_icon_id": "0025",
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 24,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 24,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "移动光标",
+    "source_layer": "移动光标",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      534,
+      577,
+      624,
+      599
+    ],
+    "size": [
+      90,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 22,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "音频设置",
+    "source_layer": "音频",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      632,
+      577,
+      801,
+      607
+    ],
+    "size": [
+      169,
+      30
+    ],
+    "reference_icon_id": "0089",
+    "english_reference_glyph_height": 31,
+    "glyph_height_before": 24,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 25,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "音频设置",
+    "source_layer": "音频",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      809,
+      577,
+      914,
+      607
+    ],
+    "size": [
+      105,
+      30
+    ],
+    "reference_icon_id": "0085",
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 25,
+    "glyph_height_after": 25,
+    "glyph_core_height_before": 25,
+    "glyph_core_height_after": 25
+  },
+  {
+    "kind": "chinese_text",
+    "label": "音频设置",
+    "source_layer": "音频",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      922,
+      577,
+      1025,
+      607
+    ],
+    "size": [
+      103,
+      30
+    ],
+    "reference_icon_id": "0047",
+    "english_reference_glyph_height": 23,
+    "glyph_height_before": 24,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 24,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "隐私条款",
+    "source_layer": "隐私条款",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1033,
+      577,
+      1122,
+      600
+    ],
+    "size": [
+      89,
+      23
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 30,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 28,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "音乐列表",
+    "source_layer": "音乐列表",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1130,
+      577,
+      1229,
+      607
+    ],
+    "size": [
+      99,
+      30
+    ],
+    "reference_icon_id": "0013",
+    "english_reference_glyph_height": 13,
+    "glyph_height_before": 19,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 18,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "游戏保存失败。\n可能是存储空间不足。",
+    "source_layer": "游戏保存失败。 可能是存储空间不足。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1237,
+      577,
+      1438,
+      626
+    ],
+    "size": [
+      201,
+      49
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 47,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 46,
+    "glyph_core_height_after": 42
+  },
+  {
+    "kind": "chinese_text",
+    "label": "游戏滤镜",
+    "source_layer": "滤镜",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1446,
+      577,
+      1554,
+      607
+    ],
+    "size": [
+      108,
+      30
+    ],
+    "reference_icon_id": "0021",
+    "english_reference_glyph_height": 23,
+    "glyph_height_before": 25,
+    "glyph_height_after": 25,
+    "glyph_core_height_before": 25,
+    "glyph_core_height_after": 25
+  },
+  {
+    "kind": "chinese_text",
+    "label": "游戏内显示的操作说明可能与实际不一致。",
+    "source_layer": "游戏内显示的操作说明可能与实际不一致。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1562,
+      577,
+      1988,
+      605
+    ],
+    "size": [
+      426,
+      28
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 30,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 28,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "游戏通知",
+    "source_layer": "通知",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      8,
+      636,
+      114,
+      666
+    ],
+    "size": [
+      106,
+      30
+    ],
+    "reference_icon_id": "0086",
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 24,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 24,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "游戏选项",
+    "source_layer": "选项",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      122,
+      636,
+      231,
+      666
+    ],
+    "size": [
+      109,
+      30
+    ],
+    "reference_icon_id": "0036",
+    "english_reference_glyph_height": 23,
+    "glyph_height_before": 24,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 24,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "游戏选项",
+    "source_layer": "选项",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      239,
+      636,
+      348,
+      666
+    ],
+    "size": [
+      109,
+      30
+    ],
+    "reference_icon_id": "0038",
+    "english_reference_glyph_height": 26,
+    "glyph_height_before": 24,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 24,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "游戏选择",
+    "source_layer": "游戏选择",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      356,
+      636,
+      459,
+      666
+    ],
+    "size": [
+      103,
+      30
+    ],
+    "reference_icon_id": "0016",
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 21,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 20,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "游戏音量",
+    "source_layer": "游戏音量",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      467,
+      636,
+      570,
+      666
+    ],
+    "size": [
+      103,
+      30
+    ],
+    "reference_icon_id": "0030",
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 22,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "语言设置",
+    "source_layer": "语言 ",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      578,
+      636,
+      685,
+      666
+    ],
+    "size": [
+      107,
+      30
+    ],
+    "reference_icon_id": "0071",
+    "english_reference_glyph_height": 26,
+    "glyph_height_before": 24,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 24,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "语言设置",
+    "source_layer": "语言",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      693,
+      636,
+      800,
+      666
+    ],
+    "size": [
+      107,
+      30
+    ],
+    "reference_icon_id": "0039",
+    "english_reference_glyph_height": 29,
+    "glyph_height_before": 24,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 24,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "原声音乐",
+    "source_layer": "数字原声带",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      808,
+      636,
+      911,
+      666
+    ],
+    "size": [
+      103,
+      30
+    ],
+    "reference_icon_id": "0027",
+    "english_reference_glyph_height": 26,
+    "glyph_height_before": 24,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 24,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "原声音乐",
+    "source_layer": "数字原声带*",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      919,
+      636,
+      1022,
+      666
+    ],
+    "size": [
+      103,
+      30
+    ],
+    "reference_icon_id": "0012",
+    "english_reference_glyph_height": 26,
+    "glyph_height_before": 24,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 24,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "暂停菜单",
+    "source_layer": "暂停菜单",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1030,
+      636,
+      1133,
+      666
+    ],
+    "size": [
+      103,
+      30
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 23,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "之前的数据将丢失。",
+    "source_layer": "之前的数据将丢失。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1141,
+      636,
+      1333,
+      658
+    ],
+    "size": [
+      192,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 30,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 28,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "只有将游戏画面设置为标准或像素适配时，才能调整壁纸和显示区域。",
+    "source_layer": "只有将游戏画面设置为标准或像素适配时， 才能调整壁纸和显示区域。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1341,
+      636,
+      2037,
+      659
+    ],
+    "size": [
+      696,
+      23
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 21,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 21,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "只有在游戏画面设置为像素适配时才能调整画面滤镜设置。",
+    "source_layer": "只有在游戏画面设置为像素适配时才能 调整画面滤镜设置。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      8,
+      676,
+      564,
+      697
+    ],
+    "size": [
+      556,
+      21
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 21,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 21,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "制作人员",
+    "source_layer": "制作组",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      572,
+      676,
+      678,
+      706
+    ],
+    "size": [
+      106,
+      30
+    ],
+    "reference_icon_id": "0017",
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 24,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 24,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "制作人员",
+    "source_layer": "制作组",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      686,
+      676,
+      792,
+      706
+    ],
+    "size": [
+      106,
+      30
+    ],
+    "reference_icon_id": "0043",
+    "english_reference_glyph_height": 23,
+    "glyph_height_before": 24,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 24,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "重置游戏",
+    "source_layer": "重置游戏。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      800,
+      676,
+      907,
+      706
+    ],
+    "size": [
+      107,
+      30
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 24,
+    "glyph_height_after": 24,
+    "glyph_core_height_before": 24,
+    "glyph_core_height_after": 24
+  },
+  {
+    "kind": "chinese_text",
+    "label": "重置游戏。\n未保存的进度将会丢失。",
+    "source_layer": "重置游戏。 未保存的进度将会丢失。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      915,
+      676,
+      1139,
+      725
+    ],
+    "size": [
+      224,
+      49
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 60,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 59,
+    "glyph_core_height_after": 42
+  },
+  {
+    "kind": "chinese_text",
+    "label": "主按键",
+    "source_layer": "主按键",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1147,
+      676,
+      1222,
+      705
+    ],
+    "size": [
+      75,
+      29
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 21,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "主菜单音量",
+    "source_layer": "主菜单音量",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1230,
+      676,
+      1356,
+      706
+    ],
+    "size": [
+      126,
+      30
+    ],
+    "reference_icon_id": "0048",
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 25,
+    "glyph_core_height_before": 23,
+    "glyph_core_height_after": 25
+  },
+  {
+    "kind": "chinese_text",
+    "label": "《合金装备：幽灵通天塔》最初于 2000 年发行。",
+    "source_layer": "《合金装备：幽灵通天塔》最初于 2000 年发行。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      1364,
+      676,
+      1813,
+      697
+    ],
+    "size": [
+      449,
+      21
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 23,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "《合金装备：幽灵通天塔》最初于 2000 年发行。",
+    "source_layer": "《合金装备：幽灵通天塔》最初于 2000 年发行。",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      8,
+      735,
+      457,
+      756
+    ],
+    "size": [
+      449,
+      21
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 23,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "chinese_text",
+    "label": "（国际版名称：《合金装备》）",
+    "source_layer": "（国际版名称：《合金装备》）",
+    "source_group": null,
+    "source_icon_id": null,
+    "source_bbox": null,
+    "destination_bbox": [
+      465,
+      735,
+      743,
+      756
+    ],
+    "size": [
+      278,
+      21
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 21,
+    "glyph_height_before": 23,
+    "glyph_height_after": 21,
+    "glyph_core_height_before": 23,
+    "glyph_core_height_after": 21
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0000",
+    "source_bbox": [
+      2015,
+      435,
+      2047,
+      467
+    ],
+    "destination_bbox": [
+      751,
+      735,
+      783,
+      767
+    ],
+    "size": [
+      32,
+      32
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0001",
+    "source_bbox": [
+      201,
+      1309,
+      589,
+      1328
+    ],
+    "destination_bbox": [
+      791,
+      735,
+      1179,
+      754
+    ],
+    "size": [
+      388,
+      19
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0003",
+    "source_bbox": [
+      312,
+      1578,
+      397,
+      1595
+    ],
+    "destination_bbox": [
+      1187,
+      735,
+      1272,
+      752
+    ],
+    "size": [
+      85,
+      17
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0004",
+    "source_bbox": [
+      1447,
+      1569,
+      1582,
+      1586
+    ],
+    "destination_bbox": [
+      1280,
+      735,
+      1415,
+      752
+    ],
+    "size": [
+      135,
+      17
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0009",
+    "source_bbox": [
+      1734,
+      1357,
+      2018,
+      1381
+    ],
+    "destination_bbox": [
+      1423,
+      735,
+      1707,
+      759
+    ],
+    "size": [
+      284,
+      24
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0010",
+    "source_bbox": [
+      1453,
+      669,
+      2040,
+      690
+    ],
+    "destination_bbox": [
+      8,
+      777,
+      595,
+      798
+    ],
+    "size": [
+      587,
+      21
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0041",
+    "source_bbox": [
+      383,
+      1065,
+      482,
+      1088
+    ],
+    "destination_bbox": [
+      603,
+      777,
+      702,
+      800
+    ],
+    "size": [
+      99,
+      23
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0044",
+    "source_bbox": [
+      359,
+      1104,
+      460,
+      1130
+    ],
+    "destination_bbox": [
+      710,
+      777,
+      811,
+      803
+    ],
+    "size": [
+      101,
+      26
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0046",
+    "source_bbox": [
+      742,
+      1499,
+      919,
+      1522
+    ],
+    "destination_bbox": [
+      819,
+      777,
+      996,
+      800
+    ],
+    "size": [
+      177,
+      23
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": "Codec",
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0072",
+    "source_bbox": [
+      912,
+      1524,
+      997,
+      1546
+    ],
+    "destination_bbox": [
+      1004,
+      777,
+      1093,
+      807
+    ],
+    "size": [
+      89,
+      30
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 23,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": "画面设置",
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0080",
+    "source_bbox": [
+      392,
+      1231,
+      481,
+      1252
+    ],
+    "destination_bbox": [
+      1101,
+      777,
+      1208,
+      807
+    ],
+    "size": [
+      107,
+      30
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 24,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0103",
+    "source_bbox": [
+      449,
+      854,
+      482,
+      875
+    ],
+    "destination_bbox": [
+      1216,
+      777,
+      1249,
+      798
+    ],
+    "size": [
+      33,
+      21
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0104",
+    "source_bbox": [
+      1490,
+      1108,
+      1522,
+      1129
+    ],
+    "destination_bbox": [
+      1257,
+      777,
+      1289,
+      798
+    ],
+    "size": [
+      32,
+      21
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0105",
+    "source_bbox": [
+      449,
+      830,
+      482,
+      852
+    ],
+    "destination_bbox": [
+      1297,
+      777,
+      1330,
+      799
+    ],
+    "size": [
+      33,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0106",
+    "source_bbox": [
+      1994,
+      488,
+      2045,
+      510
+    ],
+    "destination_bbox": [
+      1338,
+      777,
+      1389,
+      799
+    ],
+    "size": [
+      51,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0110",
+    "source_bbox": [
+      408,
+      773,
+      480,
+      795
+    ],
+    "destination_bbox": [
+      1397,
+      777,
+      1469,
+      799
+    ],
+    "size": [
+      72,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0111",
+    "source_bbox": [
+      742,
+      1283,
+      1095,
+      1305
+    ],
+    "destination_bbox": [
+      1477,
+      777,
+      1830,
+      799
+    ],
+    "size": [
+      353,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0114",
+    "source_bbox": [
+      1989,
+      207,
+      2047,
+      229
+    ],
+    "destination_bbox": [
+      1838,
+      777,
+      1896,
+      799
+    ],
+    "size": [
+      58,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0120",
+    "source_bbox": [
+      478,
+      1381,
+      740,
+      1404
+    ],
+    "destination_bbox": [
+      8,
+      817,
+      270,
+      840
+    ],
+    "size": [
+      262,
+      23
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0121",
+    "source_bbox": [
+      1734,
+      1383,
+      2000,
+      1406
+    ],
+    "destination_bbox": [
+      278,
+      817,
+      544,
+      840
+    ],
+    "size": [
+      266,
+      23
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0122",
+    "source_bbox": [
+      355,
+      1533,
+      518,
+      1555
+    ],
+    "destination_bbox": [
+      552,
+      817,
+      715,
+      839
+    ],
+    "size": [
+      163,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0123",
+    "source_bbox": [
+      408,
+      797,
+      480,
+      819
+    ],
+    "destination_bbox": [
+      723,
+      817,
+      795,
+      839
+    ],
+    "size": [
+      72,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0124",
+    "source_bbox": [
+      1989,
+      231,
+      2041,
+      253
+    ],
+    "destination_bbox": [
+      803,
+      817,
+      855,
+      839
+    ],
+    "size": [
+      52,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0125",
+    "source_bbox": [
+      1079,
+      854,
+      1130,
+      876
+    ],
+    "destination_bbox": [
+      863,
+      817,
+      914,
+      839
+    ],
+    "size": [
+      51,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0126",
+    "source_bbox": [
+      522,
+      1433,
+      740,
+      1455
+    ],
+    "destination_bbox": [
+      922,
+      817,
+      1140,
+      839
+    ],
+    "size": [
+      218,
+      22
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0130",
+    "source_bbox": [
+      1669,
+      1397,
+      1726,
+      1416
+    ],
+    "destination_bbox": [
+      1148,
+      817,
+      1205,
+      836
+    ],
+    "size": [
+      57,
+      19
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0131",
+    "source_bbox": [
+      429,
+      1166,
+      462,
+      1185
+    ],
+    "destination_bbox": [
+      1213,
+      817,
+      1246,
+      836
+    ],
+    "size": [
+      33,
+      19
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": "选择您想要的显示语言。",
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0141",
+    "source_bbox": [
+      742,
+      1158,
+      1172,
+      1182
+    ],
+    "destination_bbox": [
+      1254,
+      817,
+      1514,
+      841
+    ],
+    "size": [
+      260,
+      24
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 23,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": "更改游戏的分辨率设置。",
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0155",
+    "source_bbox": [
+      1146,
+      922,
+      1682,
+      959
+    ],
+    "destination_bbox": [
+      1522,
+      817,
+      1866,
+      854
+    ],
+    "size": [
+      344,
+      37
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": 30,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0207",
+    "source_bbox": [
+      1441,
+      1235,
+      1650,
+      1276
+    ],
+    "destination_bbox": [
+      8,
+      864,
+      217,
+      905
+    ],
+    "size": [
+      209,
+      41
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0208",
+    "source_bbox": [
+      544,
+      514,
+      892,
+      561
+    ],
+    "destination_bbox": [
+      225,
+      864,
+      573,
+      911
+    ],
+    "size": [
+      348,
+      47
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0209",
+    "source_bbox": [
+      1,
+      1362,
+      144,
+      1404
+    ],
+    "destination_bbox": [
+      581,
+      864,
+      724,
+      906
+    ],
+    "size": [
+      143,
+      42
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0210",
+    "source_bbox": [
+      1455,
+      1020,
+      1688,
+      1062
+    ],
+    "destination_bbox": [
+      732,
+      864,
+      965,
+      906
+    ],
+    "size": [
+      233,
+      42
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0211",
+    "source_bbox": [
+      1,
+      1278,
+      199,
+      1318
+    ],
+    "destination_bbox": [
+      973,
+      864,
+      1171,
+      904
+    ],
+    "size": [
+      198,
+      40
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0212",
+    "source_bbox": [
+      1830,
+      1102,
+      2041,
+      1143
+    ],
+    "destination_bbox": [
+      1179,
+      864,
+      1390,
+      905
+    ],
+    "size": [
+      211,
+      41
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0213",
+    "source_bbox": [
+      1,
+      833,
+      447,
+      871
+    ],
+    "destination_bbox": [
+      1398,
+      864,
+      1844,
+      902
+    ],
+    "size": [
+      446,
+      38
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0214",
+    "source_bbox": [
+      1174,
+      1241,
+      1386,
+      1278
+    ],
+    "destination_bbox": [
+      8,
+      921,
+      220,
+      958
+    ],
+    "size": [
+      212,
+      37
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0215",
+    "source_bbox": [
+      1146,
+      823,
+      1630,
+      870
+    ],
+    "destination_bbox": [
+      228,
+      921,
+      712,
+      968
+    ],
+    "size": [
+      484,
+      47
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0216",
+    "source_bbox": [
+      1505,
+      532,
+      2034,
+      578
+    ],
+    "destination_bbox": [
+      720,
+      921,
+      1249,
+      967
+    ],
+    "size": [
+      529,
+      46
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0217",
+    "source_bbox": [
+      917,
+      532,
+      1503,
+      578
+    ],
+    "destination_bbox": [
+      1257,
+      921,
+      1843,
+      967
+    ],
+    "size": [
+      586,
+      46
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0218",
+    "source_bbox": [
+      484,
+      1202,
+      720,
+      1243
+    ],
+    "destination_bbox": [
+      8,
+      978,
+      244,
+      1019
+    ],
+    "size": [
+      236,
+      41
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0219",
+    "source_bbox": [
+      1146,
+      872,
+      1582,
+      920
+    ],
+    "destination_bbox": [
+      252,
+      978,
+      688,
+      1026
+    ],
+    "size": [
+      436,
+      48
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0220",
+    "source_bbox": [
+      1453,
+      620,
+      2025,
+      667
+    ],
+    "destination_bbox": [
+      696,
+      978,
+      1268,
+      1025
+    ],
+    "size": [
+      572,
+      47
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0221",
+    "source_bbox": [
+      1395,
+      266,
+      2047,
+      313
+    ],
+    "destination_bbox": [
+      1276,
+      978,
+      1928,
+      1025
+    ],
+    "size": [
+      652,
+      47
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0222",
+    "source_bbox": [
+      388,
+      880,
+      478,
+      922
+    ],
+    "destination_bbox": [
+      1936,
+      978,
+      2026,
+      1020
+    ],
+    "size": [
+      90,
+      42
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0223",
+    "source_bbox": [
+      1230,
+      1416,
+      1422,
+      1441
+    ],
+    "destination_bbox": [
+      8,
+      1036,
+      200,
+      1061
+    ],
+    "size": [
+      192,
+      25
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0224",
+    "source_bbox": [
+      742,
+      1421,
+      961,
+      1445
+    ],
+    "destination_bbox": [
+      208,
+      1036,
+      427,
+      1060
+    ],
+    "size": [
+      219,
+      24
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0225",
+    "source_bbox": [
+      1,
+      1406,
+      240,
+      1430
+    ],
+    "destination_bbox": [
+      435,
+      1036,
+      674,
+      1060
+    ],
+    "size": [
+      239,
+      24
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0226",
+    "source_bbox": [
+      1441,
+      1202,
+      1732,
+      1233
+    ],
+    "destination_bbox": [
+      682,
+      1036,
+      973,
+      1067
+    ],
+    "size": [
+      291,
+      31
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0227",
+    "source_bbox": [
+      742,
+      1256,
+      1070,
+      1281
+    ],
+    "destination_bbox": [
+      981,
+      1036,
+      1309,
+      1061
+    ],
+    "size": [
+      328,
+      25
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0228",
+    "source_bbox": [
+      484,
+      1158,
+      740,
+      1200
+    ],
+    "destination_bbox": [
+      1317,
+      1036,
+      1573,
+      1078
+    ],
+    "size": [
+      256,
+      42
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0229",
+    "source_bbox": [
+      242,
+      1406,
+      469,
+      1431
+    ],
+    "destination_bbox": [
+      1581,
+      1036,
+      1808,
+      1061
+    ],
+    "size": [
+      227,
+      25
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0230",
+    "source_bbox": [
+      1734,
+      1233,
+      2016,
+      1264
+    ],
+    "destination_bbox": [
+      8,
+      1088,
+      290,
+      1119
+    ],
+    "size": [
+      282,
+      31
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0231",
+    "source_bbox": [
+      1146,
+      961,
+      1856,
+      986
+    ],
+    "destination_bbox": [
+      298,
+      1088,
+      1008,
+      1113
+    ],
+    "size": [
+      710,
+      25
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0232",
+    "source_bbox": [
+      742,
+      1307,
+      1041,
+      1332
+    ],
+    "destination_bbox": [
+      1016,
+      1088,
+      1315,
+      1113
+    ],
+    "size": [
+      299,
+      25
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0233",
+    "source_bbox": [
+      1702,
+      1033,
+      2039,
+      1063
+    ],
+    "destination_bbox": [
+      1323,
+      1088,
+      1660,
+      1118
+    ],
+    "size": [
+      337,
+      30
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0234",
+    "source_bbox": [
+      183,
+      1557,
+      310,
+      1581
+    ],
+    "destination_bbox": [
+      1668,
+      1088,
+      1795,
+      1112
+    ],
+    "size": [
+      127,
+      24
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0235",
+    "source_bbox": [
+      1734,
+      1408,
+      1952,
+      1433
+    ],
+    "destination_bbox": [
+      1803,
+      1088,
+      2021,
+      1113
+    ],
+    "size": [
+      218,
+      25
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0236",
+    "source_bbox": [
+      1858,
+      961,
+      2040,
+      986
+    ],
+    "destination_bbox": [
+      8,
+      1129,
+      190,
+      1154
+    ],
+    "size": [
+      182,
+      25
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0238",
+    "source_bbox": [
+      484,
+      1101,
+      914,
+      1131
+    ],
+    "destination_bbox": [
+      198,
+      1129,
+      628,
+      1159
+    ],
+    "size": [
+      430,
+      30
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0239",
+    "source_bbox": [
+      1147,
+      1020,
+      1453,
+      1066
+    ],
+    "destination_bbox": [
+      636,
+      1129,
+      942,
+      1175
+    ],
+    "size": [
+      306,
+      46
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0240",
+    "source_bbox": [
+      242,
+      1453,
+      437,
+      1477
+    ],
+    "destination_bbox": [
+      950,
+      1129,
+      1145,
+      1153
+    ],
+    "size": [
+      195,
+      24
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0241",
+    "source_bbox": [
+      1,
+      994,
+      474,
+      1024
+    ],
+    "destination_bbox": [
+      1153,
+      1129,
+      1626,
+      1159
+    ],
+    "size": [
+      473,
+      30
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0242",
+    "source_bbox": [
+      484,
+      997,
+      996,
+      1027
+    ],
+    "destination_bbox": [
+      8,
+      1185,
+      520,
+      1215
+    ],
+    "size": [
+      512,
+      30
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0243",
+    "source_bbox": [
+      484,
+      964,
+      1052,
+      995
+    ],
+    "destination_bbox": [
+      528,
+      1185,
+      1096,
+      1216
+    ],
+    "size": [
+      568,
+      31
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0244",
+    "source_bbox": [
+      1527,
+      1069,
+      1947,
+      1100
+    ],
+    "destination_bbox": [
+      1104,
+      1185,
+      1524,
+      1216
+    ],
+    "size": [
+      420,
+      31
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0245",
+    "source_bbox": [
+      1146,
+      988,
+      1700,
+      1018
+    ],
+    "destination_bbox": [
+      8,
+      1226,
+      562,
+      1256
+    ],
+    "size": [
+      554,
+      30
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0246",
+    "source_bbox": [
+      484,
+      932,
+      1118,
+      962
+    ],
+    "destination_bbox": [
+      570,
+      1226,
+      1204,
+      1256
+    ],
+    "size": [
+      634,
+      30
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0247",
+    "source_bbox": [
+      1972,
+      770,
+      2046,
+      796
+    ],
+    "destination_bbox": [
+      1212,
+      1226,
+      1286,
+      1252
+    ],
+    "size": [
+      74,
+      26
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0248",
+    "source_bbox": [
+      1646,
+      489,
+      1992,
+      530
+    ],
+    "destination_bbox": [
+      1294,
+      1226,
+      1640,
+      1267
+    ],
+    "size": [
+      346,
+      41
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0249",
+    "source_bbox": [
+      1174,
+      1158,
+      1420,
+      1200
+    ],
+    "destination_bbox": [
+      1648,
+      1226,
+      1894,
+      1268
+    ],
+    "size": [
+      246,
+      42
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0250",
+    "source_bbox": [
+      484,
+      1029,
+      783,
+      1077
+    ],
+    "destination_bbox": [
+      8,
+      1278,
+      307,
+      1326
+    ],
+    "size": [
+      299,
+      48
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0251",
+    "source_bbox": [
+      917,
+      489,
+      1644,
+      530
+    ],
+    "destination_bbox": [
+      315,
+      1278,
+      1042,
+      1319
+    ],
+    "size": [
+      727,
+      41
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  },
+  {
+    "kind": "english_raster",
+    "label": null,
+    "source_layer": null,
+    "source_group": null,
+    "source_icon_id": "0252",
+    "source_bbox": [
+      785,
+      1029,
+      1098,
+      1071
+    ],
+    "destination_bbox": [
+      1050,
+      1278,
+      1363,
+      1320
+    ],
+    "size": [
+      313,
+      42
+    ],
+    "reference_icon_id": null,
+    "english_reference_glyph_height": null,
+    "glyph_height_before": null,
+    "glyph_height_after": null,
+    "glyph_core_height_before": null,
+    "glyph_core_height_after": null
+  }
+]

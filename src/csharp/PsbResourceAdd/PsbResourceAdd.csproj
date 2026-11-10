@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FreeMote"><HintPath>..\..\..\tools\FreeMote\FreeMote.dll</HintPath></Reference>
+    <Reference Include="FreeMote.Psb"><HintPath>..\..\..\tools\FreeMote\FreeMote.Psb.dll</HintPath></Reference>
+  </ItemGroup>
+</Project>
